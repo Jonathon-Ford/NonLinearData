@@ -1,0 +1,12 @@
+﻿  sortComparison.cpp
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(57,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(63,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(64,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(68,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(73,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(74,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(96,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(111,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\sortComparison\sortComparison.cpp(117,31): warning C4018: '<': signed/unsigned mismatch
+  sortComparison.vcxproj -> C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework3\sortComparison\Debug\sortComparison.exe

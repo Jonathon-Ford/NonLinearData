@@ -1,0 +1,9 @@
+﻿  CharacterFrequencies.cpp
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework2\NonLinearHomework2\CharacterFrequencies.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework2\NonLinearHomework2\CharacterFrequencies.cpp(21,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework2\NonLinearHomework2\CharacterFrequencies.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework2\NonLinearHomework2\CharacterFrequencies.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+  CharacterFrequencies.h
+  Generating Code...
+Debug\CharacterFrequencies.obj : warning LNK4042: object specified more than once; extras ignored
+  NonLinearHomework2.vcxproj -> C:\Users\Jt4d\source\repos\NonLinearProjects\NonLinearHomework2\Debug\NonLinearHomework2.exe
